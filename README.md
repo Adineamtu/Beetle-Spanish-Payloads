@@ -27,7 +27,7 @@ Most BadUSB scripts assume a US keyboard layout. When used on a Spanish system, 
 * **Library**: You **must** include the library found in the `/Library` folder in your project.
 
 ### 2. Installation
-1. Download `KeyboardES_ES_Beetle.h` from the [Library](./Library/) folder.
+1. Download both `KeyboardES_ES_Beetle.h` and KeyboardES_ES_Beetle.cpp from the [Library](./Library/) folder.
 2. Place it in your Arduino sketch folder.
 3. Use `#include "KeyboardES_ES_Beetle.h"` at the beginning of your code.
 4. Replace variables like `YOUR_DISCORD_WEBHOOK_URL` with your actual data.
