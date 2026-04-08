@@ -16,7 +16,7 @@ Most BadUSB scripts assume a US keyboard layout. When used on a Spanish system, 
 | Category | Payload Name | Description |
 | :--- | :--- | :--- |
 | 🔑 **Security** | [Wifi-Stealer](./Payloads/Wifi-Stealer/) | Extracts Wi-Fi passwords and sends them to a Discord Webhook. |
-| 📦 **System** | [Standard Installer](./Payloads/Auto-Installer/Standard-Installer.ino) | Installs software via Winget with a visible console. |
+| 📦 **System** | [Standard Installer](./Payloads/Auto-Installer/Auto-Installer.ino) | Installs software via Winget with a visible console. |
 | 👤 **Stealth** | [Stealth Installer](./Payloads/Auto-Installer/Stealth-Installer.ino) | Silent installation using background PowerShell. |
 | 🎭 **Fun** | [Fake System Alert](./Payloads/Pranks/Fake-System-Alert.ino) | Displays a series of professional-looking VBScript pop-up alerts. |
 
